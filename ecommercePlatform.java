@@ -1580,7 +1580,7 @@ class ECommerceSystem {
 }
 
 // ==================== MAIN CLASS ====================
-public class miniproject {
+public class ecommercePlatform {
     public static void main(String[] args) {
         try {
             ECommerceSystem system = new ECommerceSystem();
@@ -1589,4 +1589,5 @@ public class miniproject {
             System.out.println("INVALID INPUT");
         }
     }
+
 }
